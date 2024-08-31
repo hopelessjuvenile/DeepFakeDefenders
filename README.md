@@ -7,7 +7,7 @@ The technical report has been placed in ./despairingjuvenile_tech_report_templat
 
 The method structure is as follows:
 
-![](.\assets\framework.png)
+![](assets\framework.png)
 
 ## Environment
 
