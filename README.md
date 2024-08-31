@@ -7,7 +7,13 @@ The technical report has been placed in ./despairingjuvenile_tech_report_templat
 
 The method structure is as follows:
 
-![alt text](assets/framework.png)``
+![framewor](assets/framework.png)
+
+
+
+Visualization of covariance between different frames in individual forgery examples:
+
+![covariance visualizetion](assets/cov_compare.png)
 
 ## Environment
 
