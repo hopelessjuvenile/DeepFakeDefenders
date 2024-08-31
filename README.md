@@ -3,7 +3,7 @@ This is the competition for Track 2: Deepfake Audio-Video Detection in the Inclu
 
 ## Technical report
 
-The technical report has been placed in ./despairingjuvenile_tech_report_template.pdf
+The technical report has been placed in [despairingjuvenile_tech_report_template.pdf](./despairingjuvenile_tech_report_template.pdf)
 
 The method structure is as follows:
 
