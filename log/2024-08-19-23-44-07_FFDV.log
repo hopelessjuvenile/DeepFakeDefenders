@@ -1,0 +1,22 @@
+Time:2024-08-19 23:44:08,423 - Level:DEBUG - Message:Train dataloader loading complete! dataset length is: 1891, original length is: 242048
+Time:2024-08-19 23:44:08,424 - Level:DEBUG - Message:Val dataloader loading complete! dataset length is: 622, original length is: 79616
+Time:2024-08-19 23:44:08,424 - Level:DEBUG - Message:Test dataloader loading complete! dataset length is: 1348, original length is: 172544
+Time:2024-08-19 23:44:22,440 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.8436223268508911
+Time:2024-08-19 23:47:51,632 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.00907618086785078
+Time:2024-08-19 23:51:21,067 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.05937929451465607
+Time:2024-08-19 23:51:42,587 - Level:DEBUG - Message:running time of epoch 1 : 447.56854796409607 s
+Time:2024-08-19 23:51:42,857 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_0_2024-08-19-23-51-42_fusion.pth/epoch 1] save success!
+Time:2024-08-19 23:53:09,914 - Level:DEBUG - Message:Model [./checkpoint/best_fusion.pth/epoch 1] save success!
+Time:2024-08-19 23:53:09,925 - Level:DEBUG - Message:current best ACC@1 is : 0.9959506034755902
+Time:2024-08-19 23:53:14,146 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.04704935476183891
+Time:2024-08-19 23:56:44,999 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.017136123031377792
+Time:2024-08-20 00:00:15,482 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.024557268247008324
+Time:2024-08-20 00:00:36,396 - Level:DEBUG - Message:running time of epoch 2 : 446.4708490371704 s
+Time:2024-08-20 00:00:36,592 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_1_2024-08-20-00-00-36_fusion.pth/epoch 2] save success!
+Time:2024-08-20 00:02:04,627 - Level:DEBUG - Message:Model [./checkpoint/best_fusion.pth/epoch 2] save success!
+Time:2024-08-20 00:02:04,645 - Level:DEBUG - Message:current best ACC@1 is : 0.9967317389904996
+Time:2024-08-20 00:02:09,465 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.004075274337083101
+Time:2024-08-20 00:05:39,376 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.30445021390914917
+Time:2024-08-20 00:09:09,107 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.001346514094620943
+Time:2024-08-20 00:09:30,021 - Level:DEBUG - Message:running time of epoch 3 : 445.37633657455444 s
+Time:2024-08-20 00:09:30,244 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_2_2024-08-20-00-09-30_fusion.pth/epoch 3] save success!

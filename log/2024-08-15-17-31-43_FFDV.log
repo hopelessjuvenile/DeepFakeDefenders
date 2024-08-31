@@ -1,0 +1,56 @@
+Time:2024-08-15 17:31:43,684 - Level:DEBUG - Message:Train dataloader loading complete! dataset length is: 1891, original length is: 242048
+Time:2024-08-15 17:31:43,684 - Level:DEBUG - Message:Val dataloader loading complete! dataset length is: 622, original length is: 79616
+Time:2024-08-15 17:39:17,655 - Level:DEBUG - Message:running time of epoch 21 : 448.76766633987427 s
+Time:2024-08-15 17:39:17,846 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_20_2024-08-15-17-39-17.pth/epoch 21] save success!
+Time:2024-08-15 17:40:34,434 - Level:DEBUG - Message:Model [./checkpoint/best.pth/epoch 21] save success!
+Time:2024-08-15 17:40:34,444 - Level:DEBUG - Message:current best ACC@1 is : 99.27680233435629
+Time:2024-08-15 17:48:03,653 - Level:DEBUG - Message:running time of epoch 22 : 449.2084925174713 s
+Time:2024-08-15 17:48:03,854 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_21_2024-08-15-17-48-03.pth/epoch 22] save success!
+Time:2024-08-15 17:49:20,097 - Level:DEBUG - Message:Model [./checkpoint/best.pth/epoch 22] save success!
+Time:2024-08-15 17:49:20,111 - Level:DEBUG - Message:current best ACC@1 is : 99.38496755043518
+Time:2024-08-15 17:56:49,418 - Level:DEBUG - Message:running time of epoch 23 : 449.30620551109314 s
+Time:2024-08-15 17:56:49,638 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_22_2024-08-15-17-56-49.pth/epoch 23] save success!
+Time:2024-08-15 18:05:36,175 - Level:DEBUG - Message:running time of epoch 24 : 450.50847697257996 s
+Time:2024-08-15 18:05:36,391 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_23_2024-08-15-18-05-36.pth/epoch 24] save success!
+Time:2024-08-15 18:06:52,888 - Level:DEBUG - Message:Model [./checkpoint/best.pth/epoch 24] save success!
+Time:2024-08-15 18:06:52,899 - Level:DEBUG - Message:current best ACC@1 is : 99.39628716607135
+Time:2024-08-15 18:14:22,529 - Level:DEBUG - Message:running time of epoch 25 : 449.6300411224365 s
+Time:2024-08-15 18:14:22,717 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_24_2024-08-15-18-14-22.pth/epoch 25] save success!
+Time:2024-08-15 18:15:38,103 - Level:DEBUG - Message:Model [./checkpoint/best.pth/epoch 25] save success!
+Time:2024-08-15 18:15:38,105 - Level:DEBUG - Message:current best ACC@1 is : 99.42898827790914
+Time:2024-08-15 18:23:06,566 - Level:DEBUG - Message:running time of epoch 26 : 448.4602081775665 s
+Time:2024-08-15 18:23:06,774 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_25_2024-08-15-18-23-06.pth/epoch 26] save success!
+Time:2024-08-15 18:31:53,555 - Level:DEBUG - Message:running time of epoch 27 : 449.88395261764526 s
+Time:2024-08-15 18:31:53,773 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_26_2024-08-15-18-31-53.pth/epoch 27] save success!
+Time:2024-08-15 18:33:11,045 - Level:DEBUG - Message:Model [./checkpoint/best.pth/epoch 27] save success!
+Time:2024-08-15 18:33:11,057 - Level:DEBUG - Message:current best ACC@1 is : 99.43779242340393
+Time:2024-08-15 18:40:40,082 - Level:DEBUG - Message:running time of epoch 28 : 449.02455377578735 s
+Time:2024-08-15 18:40:40,293 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_27_2024-08-15-18-40-40.pth/epoch 28] save success!
+Time:2024-08-15 18:49:24,617 - Level:DEBUG - Message:running time of epoch 29 : 448.7409825325012 s
+Time:2024-08-15 18:49:24,817 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_28_2024-08-15-18-49-24.pth/epoch 29] save success!
+Time:2024-08-15 18:58:11,728 - Level:DEBUG - Message:running time of epoch 30 : 450.2780177593231 s
+Time:2024-08-15 18:58:11,957 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_29_2024-08-15-18-58-11.pth/epoch 30] save success!
+Time:2024-08-15 19:06:54,956 - Level:DEBUG - Message:running time of epoch 31 : 447.1226806640625 s
+Time:2024-08-15 19:06:55,158 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_30_2024-08-15-19-06-54.pth/epoch 31] save success!
+Time:2024-08-15 19:08:10,458 - Level:DEBUG - Message:Model [./checkpoint/best.pth/epoch 31] save success!
+Time:2024-08-15 19:08:10,470 - Level:DEBUG - Message:current best ACC@1 is : 99.4491120390401
+Time:2024-08-15 19:15:40,193 - Level:DEBUG - Message:running time of epoch 32 : 449.7220003604889 s
+Time:2024-08-15 19:15:40,403 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_31_2024-08-15-19-15-40.pth/epoch 32] save success!
+Time:2024-08-15 19:24:22,592 - Level:DEBUG - Message:running time of epoch 33 : 447.0663149356842 s
+Time:2024-08-15 19:24:22,790 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_32_2024-08-15-19-24-22.pth/epoch 33] save success!
+Time:2024-08-15 19:33:04,562 - Level:DEBUG - Message:running time of epoch 34 : 447.3533456325531 s
+Time:2024-08-15 19:33:04,773 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_33_2024-08-15-19-33-04.pth/epoch 34] save success!
+Time:2024-08-15 19:41:45,912 - Level:DEBUG - Message:running time of epoch 35 : 446.61724281311035 s
+Time:2024-08-15 19:41:46,120 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_34_2024-08-15-19-41-45.pth/epoch 35] save success!
+Time:2024-08-15 19:50:29,301 - Level:DEBUG - Message:running time of epoch 36 : 447.14620995521545 s
+Time:2024-08-15 19:50:29,491 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_35_2024-08-15-19-50-29.pth/epoch 36] save success!
+Time:2024-08-15 19:59:14,330 - Level:DEBUG - Message:running time of epoch 37 : 449.16797280311584 s
+Time:2024-08-15 19:59:14,544 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_36_2024-08-15-19-59-14.pth/epoch 37] save success!
+Time:2024-08-15 20:07:59,610 - Level:DEBUG - Message:running time of epoch 38 : 450.1162188053131 s
+Time:2024-08-15 20:07:59,819 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_37_2024-08-15-20-07-59.pth/epoch 38] save success!
+Time:2024-08-15 20:16:41,782 - Level:DEBUG - Message:running time of epoch 39 : 446.7715995311737 s
+Time:2024-08-15 20:16:41,979 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_38_2024-08-15-20-16-41.pth/epoch 39] save success!
+Time:2024-08-15 20:17:58,489 - Level:DEBUG - Message:Model [./checkpoint/best.pth/epoch 39] save success!
+Time:2024-08-15 20:17:58,489 - Level:DEBUG - Message:current best ACC@1 is : 99.46420485988831
+Time:2024-08-15 20:25:25,272 - Level:DEBUG - Message:running time of epoch 40 : 446.78226947784424 s
+Time:2024-08-15 20:25:25,481 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_39_2024-08-15-20-25-25.pth/epoch 40] save success!

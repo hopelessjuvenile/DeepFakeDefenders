@@ -1,0 +1,12 @@
+Time:2024-08-25 11:13:51,326 - Level:DEBUG - Message:Train dataloader loading complete! dataset length is: 1891, original length is: 242048
+Time:2024-08-25 11:13:51,326 - Level:DEBUG - Message:Val dataloader loading complete! dataset length is: 622, original length is: 79616
+Time:2024-08-25 11:13:51,326 - Level:DEBUG - Message:Test dataloader loading complete! dataset length is: 1348, original length is: 172544
+Time:2024-08-25 11:14:00,056 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.6304943561553955
+Time:2024-08-25 11:17:36,501 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.34120604395866394
+Time:2024-08-25 11:21:13,436 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.3298095166683197
+Time:2024-08-25 11:21:35,568 - Level:DEBUG - Message:running time of epoch 1 : 459.78155183792114 s
+Time:2024-08-25 11:21:35,761 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_0_2024-08-25-11-21-35_fusion_cos_submit.pth/epoch 1] save success!
+Time:2024-08-25 11:23:05,208 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos_submit.pth/epoch 1] save success!
+Time:2024-08-25 11:23:05,218 - Level:DEBUG - Message:current best AUC@1 is : 0.776702298845275
+Time:2024-08-25 11:23:08,326 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.3265266716480255
+Time:2024-08-25 11:26:45,387 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.3399043381214142

@@ -1,0 +1,6 @@
+label_name:
+  trainset: trainset_label.txt
+  valset: valset_label.txt
+  testset: testset_label.csv
+evaluate: val
+extract_path: /hy-tmp/multi-ffdv/data

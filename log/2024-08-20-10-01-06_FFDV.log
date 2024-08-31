@@ -1,0 +1,173 @@
+Time:2024-08-20 10:01:07,513 - Level:DEBUG - Message:Train dataloader loading complete! dataset length is: 1891, original length is: 242048
+Time:2024-08-20 10:01:07,514 - Level:DEBUG - Message:Val dataloader loading complete! dataset length is: 622, original length is: 79616
+Time:2024-08-20 10:01:07,514 - Level:DEBUG - Message:Test dataloader loading complete! dataset length is: 1348, original length is: 172544
+Time:2024-08-20 10:01:18,099 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 2.283306360244751
+Time:2024-08-20 10:04:54,224 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.09861890971660614
+Time:2024-08-20 10:08:30,283 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.08464836329221725
+Time:2024-08-20 10:08:52,463 - Level:DEBUG - Message:running time of epoch 1 : 460.017648935318 s
+Time:2024-08-20 10:08:52,662 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_0_2024-08-20-10-08-52_fusion_cos.pth/epoch 1] save success!
+Time:2024-08-20 10:10:10,507 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos.pth/epoch 1] save success!
+Time:2024-08-20 10:10:10,508 - Level:DEBUG - Message:current best ACC@1 is : 0.986047879980135
+Time:2024-08-20 10:10:15,544 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.05328073352575302
+Time:2024-08-20 10:13:52,116 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0993979349732399
+Time:2024-08-20 10:17:28,626 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.040850650519132614
+Time:2024-08-20 10:17:50,420 - Level:DEBUG - Message:running time of epoch 2 : 459.9119348526001 s
+Time:2024-08-20 10:17:50,612 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_1_2024-08-20-10-17-50_fusion_cos.pth/epoch 2] save success!
+Time:2024-08-20 10:19:11,540 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos.pth/epoch 2] save success!
+Time:2024-08-20 10:19:11,552 - Level:DEBUG - Message:current best ACC@1 is : 0.9956159268286249
+Time:2024-08-20 10:19:15,884 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.008200629614293575
+Time:2024-08-20 10:22:54,050 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.014694062992930412
+Time:2024-08-20 10:26:30,984 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.008027104660868645
+Time:2024-08-20 10:26:52,405 - Level:DEBUG - Message:running time of epoch 3 : 460.85337805747986 s
+Time:2024-08-20 10:26:52,605 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_2_2024-08-20-10-26-52_fusion_cos.pth/epoch 3] save success!
+Time:2024-08-20 10:28:14,274 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos.pth/epoch 3] save success!
+Time:2024-08-20 10:28:14,285 - Level:DEBUG - Message:current best ACC@1 is : 0.9981786722059836
+Time:2024-08-20 10:28:19,623 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.08101116865873337
+Time:2024-08-20 10:31:57,103 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.022884028032422066
+Time:2024-08-20 10:35:35,102 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.014038477092981339
+Time:2024-08-20 10:35:56,813 - Level:DEBUG - Message:running time of epoch 4 : 462.5272443294525 s
+Time:2024-08-20 10:35:57,049 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_3_2024-08-20-10-35-56_fusion_cos.pth/epoch 4] save success!
+Time:2024-08-20 10:37:18,210 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos.pth/epoch 4] save success!
+Time:2024-08-20 10:37:18,222 - Level:DEBUG - Message:current best ACC@1 is : 0.998863947903428
+Time:2024-08-20 10:37:22,612 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.1184806376695633
+Time:2024-08-20 10:41:01,776 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.011028646491467953
+Time:2024-08-20 10:44:39,200 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.004267954267561436
+Time:2024-08-20 10:45:00,994 - Level:DEBUG - Message:running time of epoch 5 : 462.7720515727997 s
+Time:2024-08-20 10:45:01,192 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_4_2024-08-20-10-45-00_fusion_cos.pth/epoch 5] save success!
+Time:2024-08-20 10:46:22,523 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos.pth/epoch 5] save success!
+Time:2024-08-20 10:46:22,534 - Level:DEBUG - Message:current best ACC@1 is : 0.9992028969944305
+Time:2024-08-20 10:46:28,045 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0007367774960584939
+Time:2024-08-20 10:50:05,398 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.075474813580513
+Time:2024-08-20 10:53:43,154 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0072993384674191475
+Time:2024-08-20 10:54:04,782 - Level:DEBUG - Message:running time of epoch 6 : 462.24725675582886 s
+Time:2024-08-20 10:54:04,982 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_5_2024-08-20-10-54-04_fusion_cos.pth/epoch 6] save success!
+Time:2024-08-20 10:55:30,909 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 3.1051116820890456e-05
+Time:2024-08-20 10:59:09,296 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.13959528505802155
+Time:2024-08-20 11:02:46,869 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.03921082615852356
+Time:2024-08-20 11:03:08,636 - Level:DEBUG - Message:running time of epoch 7 : 462.7650032043457 s
+Time:2024-08-20 11:03:08,842 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_6_2024-08-20-11-03-08_fusion_cos.pth/epoch 7] save success!
+Time:2024-08-20 11:04:33,867 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.03939244523644447
+Time:2024-08-20 11:08:11,721 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.00200960086658597
+Time:2024-08-20 11:11:50,217 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 7.587842992506921e-05
+Time:2024-08-20 11:12:12,024 - Level:DEBUG - Message:running time of epoch 8 : 463.1444401741028 s
+Time:2024-08-20 11:12:12,241 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_7_2024-08-20-11-12-12_fusion_cos.pth/epoch 8] save success!
+Time:2024-08-20 11:13:38,925 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.10225749760866165
+Time:2024-08-20 11:17:16,344 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0011715915752574801
+Time:2024-08-20 11:20:54,995 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.033230751752853394
+Time:2024-08-20 11:21:16,812 - Level:DEBUG - Message:running time of epoch 9 : 462.9150800704956 s
+Time:2024-08-20 11:21:17,006 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_8_2024-08-20-11-21-16_fusion_cos.pth/epoch 9] save success!
+Time:2024-08-20 11:22:37,099 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos.pth/epoch 9] save success!
+Time:2024-08-20 11:22:37,110 - Level:DEBUG - Message:current best ACC@1 is : 0.9993834042598655
+Time:2024-08-20 11:22:41,483 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.04647934064269066
+Time:2024-08-20 11:26:19,609 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.00012046851043123752
+Time:2024-08-20 11:29:57,349 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0003027210768777877
+Time:2024-08-20 11:30:19,036 - Level:DEBUG - Message:running time of epoch 10 : 461.9256317615509 s
+Time:2024-08-20 11:30:19,238 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_9_2024-08-20-11-30-19_fusion_cos.pth/epoch 10] save success!
+Time:2024-08-20 11:31:39,159 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos.pth/epoch 10] save success!
+Time:2024-08-20 11:31:39,174 - Level:DEBUG - Message:current best ACC@1 is : 0.9996349653733092
+Time:2024-08-20 11:31:43,973 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.005753379315137863
+Time:2024-08-20 11:35:22,000 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.024762840941548347
+Time:2024-08-20 11:38:59,698 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 5.950928994025162e-07
+Time:2024-08-20 11:39:21,450 - Level:DEBUG - Message:running time of epoch 11 : 462.275936126709 s
+Time:2024-08-20 11:39:21,662 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_10_2024-08-20-11-39-21_fusion_cos.pth/epoch 11] save success!
+Time:2024-08-20 11:40:46,405 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0002842940448317677
+Time:2024-08-20 11:44:24,275 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0010291323997080326
+Time:2024-08-20 11:48:02,358 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.00241057388484478
+Time:2024-08-20 11:48:23,996 - Level:DEBUG - Message:running time of epoch 12 : 461.673442363739 s
+Time:2024-08-20 11:48:24,217 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_11_2024-08-20-11-48-23_fusion_cos.pth/epoch 12] save success!
+Time:2024-08-20 11:49:45,566 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos.pth/epoch 12] save success!
+Time:2024-08-20 11:49:45,577 - Level:DEBUG - Message:current best ACC@1 is : 0.999743691804185
+Time:2024-08-20 11:49:50,140 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.01102660782635212
+Time:2024-08-20 11:53:27,174 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 1.1082698136988256e-07
+Time:2024-08-20 11:57:04,878 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 7.94403945292288e-07
+Time:2024-08-20 11:57:26,587 - Level:DEBUG - Message:running time of epoch 13 : 461.00962948799133 s
+Time:2024-08-20 11:57:26,798 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_12_2024-08-20-11-57-26_fusion_cos.pth/epoch 13] save success!
+Time:2024-08-20 11:58:52,742 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 4.2933609734063793e-07
+Time:2024-08-20 12:02:30,837 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.017420107498764992
+Time:2024-08-20 12:06:08,971 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 1.3946711987955496e-05
+Time:2024-08-20 12:06:30,604 - Level:DEBUG - Message:running time of epoch 14 : 463.2298686504364 s
+Time:2024-08-20 12:06:30,812 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_13_2024-08-20-12-06-30_fusion_cos.pth/epoch 14] save success!
+Time:2024-08-20 12:07:56,410 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.00044702389277517796
+Time:2024-08-20 12:11:33,916 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 7.579603334306739e-06
+Time:2024-08-20 12:15:11,597 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 3.596000169636682e-05
+Time:2024-08-20 12:15:33,205 - Level:DEBUG - Message:running time of epoch 15 : 461.87349247932434 s
+Time:2024-08-20 12:15:33,406 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_14_2024-08-20-12-15-33_fusion_cos.pth/epoch 15] save success!
+Time:2024-08-20 12:16:59,003 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0006481023738160729
+Time:2024-08-20 12:20:36,334 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 8.800780960882548e-06
+Time:2024-08-20 12:24:14,776 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.036428432911634445
+Time:2024-08-20 12:24:36,420 - Level:DEBUG - Message:running time of epoch 16 : 462.17288637161255 s
+Time:2024-08-20 12:24:36,645 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_15_2024-08-20-12-24-36_fusion_cos.pth/epoch 16] save success!
+Time:2024-08-20 12:26:02,243 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 1.3132875210430939e-05
+Time:2024-08-20 12:29:40,341 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 3.8948182918829843e-05
+Time:2024-08-20 12:33:17,798 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0008153700036928058
+Time:2024-08-20 12:33:39,561 - Level:DEBUG - Message:running time of epoch 17 : 462.0029454231262 s
+Time:2024-08-20 12:33:39,755 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_16_2024-08-20-12-33-39_fusion_cos.pth/epoch 17] save success!
+Time:2024-08-20 12:35:00,429 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos.pth/epoch 17] save success!
+Time:2024-08-20 12:35:00,440 - Level:DEBUG - Message:current best ACC@1 is : 0.9998310790827182
+Time:2024-08-20 12:35:04,879 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.009352701716125011
+Time:2024-08-20 12:38:42,347 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.001293213339522481
+Time:2024-08-20 12:42:20,545 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 1.7712055750962463e-06
+Time:2024-08-20 12:42:42,442 - Level:DEBUG - Message:running time of epoch 18 : 462.0017030239105 s
+Time:2024-08-20 12:42:42,627 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_17_2024-08-20-12-42-42_fusion_cos.pth/epoch 18] save success!
+Time:2024-08-20 12:44:08,924 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0001463898952351883
+Time:2024-08-20 12:47:46,533 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.00039986916817724705
+Time:2024-08-20 12:51:23,300 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.08150743693113327
+Time:2024-08-20 12:51:44,889 - Level:DEBUG - Message:running time of epoch 19 : 460.73160886764526 s
+Time:2024-08-20 12:51:45,105 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_18_2024-08-20-12-51-44_fusion_cos.pth/epoch 19] save success!
+Time:2024-08-20 12:53:12,452 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0003700708912219852
+Time:2024-08-20 12:56:49,839 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 3.3899951290550234e-07
+Time:2024-08-20 13:00:28,314 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0012694539036601782
+Time:2024-08-20 13:00:50,145 - Level:DEBUG - Message:running time of epoch 20 : 462.9908559322357 s
+Time:2024-08-20 13:00:50,344 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_19_2024-08-20-13-00-50_fusion_cos.pth/epoch 20] save success!
+Time:2024-08-20 13:02:16,723 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0002650062378961593
+Time:2024-08-20 13:05:53,870 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0
+Time:2024-08-20 13:09:32,256 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.006335237994790077
+Time:2024-08-20 13:09:53,953 - Level:DEBUG - Message:running time of epoch 21 : 462.68315029144287 s
+Time:2024-08-20 13:09:54,149 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_20_2024-08-20-13-09-53_fusion_cos.pth/epoch 21] save success!
+Time:2024-08-20 13:11:19,543 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.00637191953137517
+Time:2024-08-20 13:14:57,902 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.09367790818214417
+Time:2024-08-20 13:18:36,053 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 1.2014004369120812e-07
+Time:2024-08-20 13:18:57,831 - Level:DEBUG - Message:running time of epoch 22 : 462.79037284851074 s
+Time:2024-08-20 13:18:58,052 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_21_2024-08-20-13-18-57_fusion_cos.pth/epoch 22] save success!
+Time:2024-08-20 13:20:23,807 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 6.556264793289301e-07
+Time:2024-08-20 13:24:02,110 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0006170327542349696
+Time:2024-08-20 13:27:38,734 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 1.4901158529312397e-08
+Time:2024-08-20 13:28:00,592 - Level:DEBUG - Message:running time of epoch 23 : 461.73188066482544 s
+Time:2024-08-20 13:28:00,795 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_22_2024-08-20-13-28-00_fusion_cos.pth/epoch 23] save success!
+Time:2024-08-20 13:29:26,303 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 2.8466498406487517e-05
+Time:2024-08-20 13:33:03,238 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 7.341500895563513e-05
+Time:2024-08-20 13:36:38,982 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 2.8845641281805e-05
+Time:2024-08-20 13:37:00,386 - Level:DEBUG - Message:running time of epoch 24 : 459.0735664367676 s
+Time:2024-08-20 13:37:00,563 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_23_2024-08-20-13-37-00_fusion_cos.pth/epoch 24] save success!
+Time:2024-08-20 13:38:22,354 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.008429319597780704
+Time:2024-08-20 13:41:58,069 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.002857089741155505
+Time:2024-08-20 13:45:33,509 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 9.71309077613114e-07
+Time:2024-08-20 13:45:54,946 - Level:DEBUG - Message:running time of epoch 25 : 456.98103857040405 s
+Time:2024-08-20 13:45:55,141 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_24_2024-08-20-13-45-54_fusion_cos.pth/epoch 25] save success!
+Time:2024-08-20 13:47:16,836 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0
+Time:2024-08-20 13:50:52,420 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0
+Time:2024-08-20 13:54:28,305 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 4.2653414311644156e-07
+Time:2024-08-20 13:54:49,745 - Level:DEBUG - Message:running time of epoch 26 : 456.9734539985657 s
+Time:2024-08-20 13:54:49,940 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_25_2024-08-20-13-54-49_fusion_cos.pth/epoch 26] save success!
+Time:2024-08-20 13:56:11,711 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 2.7939655922182283e-08
+Time:2024-08-20 13:59:47,310 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0
+Time:2024-08-20 14:03:22,653 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 9.03379060446241e-08
+Time:2024-08-20 14:03:44,035 - Level:DEBUG - Message:running time of epoch 27 : 457.18562936782837 s
+Time:2024-08-20 14:03:44,231 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_26_2024-08-20-14-03-44_fusion_cos.pth/epoch 27] save success!
+Time:2024-08-20 14:05:06,684 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.00030150156817398965
+Time:2024-08-20 14:08:42,809 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 1.8626449271863521e-09
+Time:2024-08-20 14:12:21,299 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0
+Time:2024-08-20 14:12:42,908 - Level:DEBUG - Message:running time of epoch 28 : 460.95540738105774 s
+Time:2024-08-20 14:12:43,102 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_27_2024-08-20-14-12-42_fusion_cos.pth/epoch 28] save success!
+Time:2024-08-20 14:14:03,810 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos.pth/epoch 28] save success!
+Time:2024-08-20 14:14:03,822 - Level:DEBUG - Message:current best ACC@1 is : 0.9998559273432193
+Time:2024-08-20 14:14:09,144 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 4.656607899278242e-08
+Time:2024-08-20 14:17:45,840 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 1.3327035958354827e-05
+Time:2024-08-20 14:21:23,864 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 9.171890997095034e-05
+Time:2024-08-20 14:21:45,830 - Level:DEBUG - Message:running time of epoch 29 : 462.0072548389435 s
+Time:2024-08-20 14:21:46,018 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_28_2024-08-20-14-21-45_fusion_cos.pth/epoch 29] save success!
+Time:2024-08-20 14:23:11,255 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0009614844457246363
+Time:2024-08-20 14:26:49,271 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 7.4505797087454084e-09
+Time:2024-08-20 14:30:26,074 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0
+Time:2024-08-20 14:30:47,662 - Level:DEBUG - Message:running time of epoch 30 : 461.03934025764465 s
+Time:2024-08-20 14:30:47,853 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_29_2024-08-20-14-30-47_fusion_cos.pth/epoch 30] save success!

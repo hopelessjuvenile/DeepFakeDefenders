@@ -1,0 +1,38 @@
+Time:2024-08-25 11:42:56,267 - Level:DEBUG - Message:Train dataloader loading complete! dataset length is: 1891, original length is: 242048
+Time:2024-08-25 11:42:56,267 - Level:DEBUG - Message:Val dataloader loading complete! dataset length is: 622, original length is: 79616
+Time:2024-08-25 11:42:56,267 - Level:DEBUG - Message:Test dataloader loading complete! dataset length is: 1348, original length is: 172544
+Time:2024-08-25 11:43:05,824 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 9.927936553955078
+Time:2024-08-25 11:46:41,516 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.10994493961334229
+Time:2024-08-25 11:50:17,415 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.05797557905316353
+Time:2024-08-25 11:50:39,537 - Level:DEBUG - Message:running time of epoch 1 : 458.6087055206299 s
+Time:2024-08-25 11:50:39,718 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_0_2024-08-25-11-50-39_fusion_cos_submit.pth/epoch 1] save success!
+Time:2024-08-25 11:52:10,137 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos_submit.pth/epoch 1] save success!
+Time:2024-08-25 11:52:10,151 - Level:DEBUG - Message:current best AUC@1 is : 0.9981164155942654
+Time:2024-08-25 11:52:13,003 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.023558437824249268
+Time:2024-08-25 11:55:49,874 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.011048540472984314
+Time:2024-08-25 11:59:26,262 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.03889116272330284
+Time:2024-08-25 11:59:47,748 - Level:DEBUG - Message:running time of epoch 2 : 457.5966708660126 s
+Time:2024-08-25 11:59:47,938 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_1_2024-08-25-11-59-47_fusion_cos_submit.pth/epoch 2] save success!
+Time:2024-08-25 12:01:17,712 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos_submit.pth/epoch 2] save success!
+Time:2024-08-25 12:01:17,723 - Level:DEBUG - Message:current best AUC@1 is : 0.9983729223133307
+Time:2024-08-25 12:01:20,571 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.04392481967806816
+Time:2024-08-25 12:04:57,022 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.030230149626731873
+Time:2024-08-25 12:08:33,274 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.029561268165707588
+Time:2024-08-25 12:08:54,831 - Level:DEBUG - Message:running time of epoch 3 : 457.10848689079285 s
+Time:2024-08-25 12:08:55,015 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_2_2024-08-25-12-08-54_fusion_cos_submit.pth/epoch 3] save success!
+Time:2024-08-25 12:10:23,419 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos_submit.pth/epoch 3] save success!
+Time:2024-08-25 12:10:23,431 - Level:DEBUG - Message:current best AUC@1 is : 0.9991473985615326
+Time:2024-08-25 12:10:26,276 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0006724923732690513
+Time:2024-08-25 12:14:02,466 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.028419604524970055
+Time:2024-08-25 12:17:38,560 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.05784447491168976
+Time:2024-08-25 12:18:00,168 - Level:DEBUG - Message:running time of epoch 4 : 456.73687982559204 s
+Time:2024-08-25 12:18:00,350 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_3_2024-08-25-12-18-00_fusion_cos_submit.pth/epoch 4] save success!
+Time:2024-08-25 12:19:32,040 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.013346795924007893
+Time:2024-08-25 12:23:08,056 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.02746599167585373
+Time:2024-08-25 12:26:44,288 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0038589504547417164
+Time:2024-08-25 12:27:05,820 - Level:DEBUG - Message:running time of epoch 5 : 456.3903911113739 s
+Time:2024-08-25 12:27:06,015 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_4_2024-08-25-12-27-05_fusion_cos_submit.pth/epoch 5] save success!
+Time:2024-08-25 12:28:35,656 - Level:DEBUG - Message:Model [./checkpoint/best_fusion_cos_submit.pth/epoch 5] save success!
+Time:2024-08-25 12:28:35,667 - Level:DEBUG - Message:current best AUC@1 is : 0.9994706048985826
+Time:2024-08-25 12:28:38,191 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.015905015170574188
+Time:2024-08-25 12:32:14,614 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0068025230430066586

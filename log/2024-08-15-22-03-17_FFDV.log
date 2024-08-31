@@ -1,0 +1,34 @@
+Time:2024-08-15 22:03:18,532 - Level:DEBUG - Message:Train dataloader loading complete! dataset length is: 1891, original length is: 242048
+Time:2024-08-15 22:03:18,532 - Level:DEBUG - Message:Val dataloader loading complete! dataset length is: 622, original length is: 79616
+Time:2024-08-15 22:03:29,135 - Level:DEBUG - Message:Current Loss(BECLoss): 0.8224010467529297
+Time:2024-08-15 22:06:57,349 - Level:DEBUG - Message:Current Loss(BECLoss): 0.057272642850875854
+Time:2024-08-15 22:10:25,410 - Level:DEBUG - Message:Current Loss(BECLoss): 0.07166357338428497
+Time:2024-08-15 22:10:46,867 - Level:DEBUG - Message:running time of epoch 1 : 443.5206582546234 s
+Time:2024-08-15 22:10:47,064 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_0_2024-08-15-22-10-46_BCE.pth/epoch 1] save success!
+Time:2024-08-15 22:12:01,764 - Level:DEBUG - Message:Model [./checkpoint/best.pth/epoch 1] save success!
+Time:2024-08-15 22:12:01,781 - Level:DEBUG - Message:current best ACC@1 is : 97.07073502037531
+Time:2024-08-15 22:12:05,914 - Level:DEBUG - Message:Current Loss(BECLoss): 0.0393156036734581
+Time:2024-08-15 22:15:34,467 - Level:DEBUG - Message:Current Loss(BECLoss): 0.02332467772066593
+Time:2024-08-15 22:19:02,623 - Level:DEBUG - Message:Current Loss(BECLoss): 0.020975148305296898
+Time:2024-08-15 22:19:23,394 - Level:DEBUG - Message:running time of epoch 2 : 441.61185932159424 s
+Time:2024-08-15 22:19:23,577 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_1_2024-08-15-22-19-23_BCE.pth/epoch 2] save success!
+Time:2024-08-15 22:20:38,978 - Level:DEBUG - Message:Model [./checkpoint/best.pth/epoch 2] save success!
+Time:2024-08-15 22:20:39,001 - Level:DEBUG - Message:current best ACC@1 is : 98.20772752427429
+Time:2024-08-15 22:20:43,530 - Level:DEBUG - Message:Current Loss(BECLoss): 0.08598744869232178
+Time:2024-08-15 22:24:11,344 - Level:DEBUG - Message:Current Loss(BECLoss): 0.002732540015131235
+Time:2024-08-15 22:27:39,436 - Level:DEBUG - Message:Current Loss(BECLoss): 1.2036480903625488
+Time:2024-08-15 22:28:00,130 - Level:DEBUG - Message:running time of epoch 3 : 441.1284146308899 s
+Time:2024-08-15 22:28:00,310 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_2_2024-08-15-22-28-00_BCE.pth/epoch 3] save success!
+Time:2024-08-15 22:29:19,228 - Level:DEBUG - Message:Current Loss(BECLoss): 0.07851330935955048
+Time:2024-08-15 22:32:46,713 - Level:DEBUG - Message:Current Loss(BECLoss): 0.025637272745370865
+Time:2024-08-15 22:36:14,449 - Level:DEBUG - Message:Current Loss(BECLoss): 0.09274789690971375
+Time:2024-08-15 22:36:35,189 - Level:DEBUG - Message:running time of epoch 4 : 440.7001156806946 s
+Time:2024-08-15 22:36:35,371 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_3_2024-08-15-22-36-35_BCE.pth/epoch 4] save success!
+Time:2024-08-15 22:37:50,321 - Level:DEBUG - Message:Model [./checkpoint/best.pth/epoch 4] save success!
+Time:2024-08-15 22:37:50,331 - Level:DEBUG - Message:current best ACC@1 is : 98.29576897922222
+Time:2024-08-15 22:37:53,984 - Level:DEBUG - Message:Current Loss(BECLoss): 0.05751887336373329
+Time:2024-08-15 22:41:22,370 - Level:DEBUG - Message:Current Loss(BECLoss): 0.023181959986686707
+Time:2024-08-15 22:44:49,804 - Level:DEBUG - Message:Current Loss(BECLoss): 0.11473269015550613
+Time:2024-08-15 22:45:10,462 - Level:DEBUG - Message:running time of epoch 5 : 440.13027024269104 s
+Time:2024-08-15 22:45:10,656 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_4_2024-08-15-22-45-10_BCE.pth/epoch 5] save success!
+Time:2024-08-15 22:46:30,007 - Level:DEBUG - Message:Current Loss(BECLoss): 0.050516776740550995

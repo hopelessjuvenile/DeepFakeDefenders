@@ -1,0 +1,11 @@
+Time:2024-08-20 00:35:48,153 - Level:DEBUG - Message:Train dataloader loading complete! dataset length is: 1891, original length is: 242048
+Time:2024-08-20 00:35:48,153 - Level:DEBUG - Message:Val dataloader loading complete! dataset length is: 622, original length is: 79616
+Time:2024-08-20 00:35:48,153 - Level:DEBUG - Message:Test dataloader loading complete! dataset length is: 1348, original length is: 172544
+Time:2024-08-20 00:36:00,555 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.6609391570091248
+Time:2024-08-20 00:39:41,774 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.013908417895436287
+Time:2024-08-20 00:43:23,675 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.029990525916218758
+Time:2024-08-20 00:43:46,371 - Level:DEBUG - Message:running time of epoch 1 : 473.22400641441345 s
+Time:2024-08-20 00:43:46,579 - Level:DEBUG - Message:Model [./checkpoint/FFDV_Cov_0_2024-08-20-00-43-46_fusion.pth/epoch 1] save success!
+Time:2024-08-20 00:45:08,075 - Level:DEBUG - Message:Model [./checkpoint/best_fusion.pth/epoch 1] save success!
+Time:2024-08-20 00:45:08,085 - Level:DEBUG - Message:current best ACC@1 is : 0.9981296810017408
+Time:2024-08-20 00:45:13,069 - Level:DEBUG - Message:Current Loss(CrossEntropyLoss): 0.0914614349603653
